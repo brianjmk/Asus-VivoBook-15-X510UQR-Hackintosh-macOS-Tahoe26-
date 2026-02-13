@@ -13,3 +13,5 @@ gpu:
 
 oc:1.0.6
 
+
+下載鏈接https://archive.org/details/asus-x-510-uqefi
