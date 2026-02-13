@@ -12,5 +12,7 @@ gpu:NVIDIA GeForce 940MX 2GB GDDR5（在macos26無法使用）
 
 oc:1.0.6
 
+Bluetooth and Wireless network card:ac8265
+
 
 下載鏈接https://archive.org/details/asus-x-510-uqefi
